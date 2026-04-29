@@ -1,1 +1,1 @@
-# jayanthvinay.github.io-calculator
+# .github.io-calculator
